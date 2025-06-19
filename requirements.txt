@@ -1,0 +1,9 @@
+einops==0.8.1
+opencv==4.10.0
+opencv_python==4.11.0.86
+timm==1.0.15
+torch==2.6.0a0+df5bbc09d1.nv24.12
+torchmetrics==1.7.1
+torchvision==0.20.0a0
+tqdm==4.67.1
+typing_extensions==4.14.0

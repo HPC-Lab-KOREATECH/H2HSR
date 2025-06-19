@@ -1,0 +1,1 @@
+python main.py test --eval_mode 0 --model 0
