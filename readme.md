@@ -95,7 +95,7 @@ Here is an example of reconstruction results after super-resolution.
 
 ## License
 
-© 2025, HPC Lab, Korea University of Technology and Education (KOREATECH)  
+© 2025, SPIN Lab, Korea University of Technology and Education (KOREATECH)  
 and Digital Holography Research Group, Electronics and Telecommunications Research Institute (ETRI)  
 All rights reserved.
 
